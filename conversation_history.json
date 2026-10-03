@@ -1,0 +1,36 @@
+{
+  "6533846381": [
+    {
+      "role": "user",
+      "content": "Bhole ke chole any offers tere coupon?"
+    },
+    {
+      "role": "assistant",
+      "content": "I checked for offers and coupons for your chole order, but unfortunately, there are currently **no active coupons** available for delivery to your hostel right now. \n\nHowever, you can still order delicious chole from top spots like **Kapoor's Cafe** (famous for Punjabi delights), **ITC Aashirvaad Soul Creations**, or **EatFit**! Would you like me to show you the menu for any of these?"
+    },
+    {
+      "role": "user",
+      "content": "Bhole ke chole any offers tere coupon?"
+    },
+    {
+      "role": "assistant",
+      "content": "Here are some great spots near you serving delicious Chole:\n\n1. **Kapoor's Cafe** 🍛 (Punjabi)\n   - ⭐ **4.3** | 🕒 **30-35 mins** | 💰 ₹600 for two\n   - Area: Rajarajeshwari Nagar\n\n2. **ITC Aashirvaad Soul Creations** 🍲 (North Indian / Home Food)\n   - ⭐ **4.3** | 🕒 **20-25 mins** | 💰 ₹500 for two\n   - Area: Dr Vishnu Vardan Road\n\n3. **EatFit** 🥗 (North Indian / Thalis)\n   - ⭐ **4.4** | 🕒 **25-30 mins** | 💰 ₹270 for two\n   - Area: BEML Layout\n\n4. **BOX8 - Desi Meals** 🍱 (North Indian)\n   - ⭐ **4.7** | 🕒 **20-30 mins** | 💰 ₹200 for two\n   - Area: Rajarajeshwari Nagar\n\nWould you like to check the menu for any of these?"
+    },
+    {
+      "role": "user",
+      "content": "Bhole ke chole"
+    },
+    {
+      "role": "assistant",
+      "content": "✅ Added **Chole Bhature [2pcs]** from **Bhole Ke Chole** to your cart!\n\n🛒 **Cart Summary:**\n- **Item:** Chole Bhature [2pcs] — ₹271\n- **Delivery:** FREE\n- **Taxes & charges:** ₹57.78\n- **Total to pay:** **₹329**\n\nWould you like to proceed to checkout and place your order?"
+    },
+    {
+      "role": "user",
+      "content": "any coupons avialble?"
+    },
+    {
+      "role": "assistant",
+      "content": "There are currently **no active coupons** available for **Bhole Ke Chole**. \n\nYour cart currently has **Chole Bhature [2pcs]** for **₹329** (including taxes). Would you like to proceed with placing your order?"
+    }
+  ]
+}
